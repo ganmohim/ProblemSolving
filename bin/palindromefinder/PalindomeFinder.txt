@@ -1,0 +1,6 @@
+The program take the following as input: madam says bob took her
+
+In the return the program will separate order for palindrome and non-palindrome
+
+madam bob
+says took her

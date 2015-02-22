@@ -1,0 +1,9 @@
+
+# Problem A: Changing present tense to past tense
+
+Input  ==> This is a test. And, I am here to attend the test.
+Output ==> This was a test. And, I was here to attend the test.
+
+# Problem B: Develop a method that appends a sequence of character to a given string
+
+

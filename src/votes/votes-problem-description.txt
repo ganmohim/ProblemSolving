@@ -1,0 +1,17 @@
+Problem: 
+
+In an election, there are seven candidates. Each voter is allowed one vote for the candidate of their choice. The vote is recorded as a number from 1 to 7. The number of voters is unknown beforehand, but the votes are terminated by a vote of 0. Any vote that is not a number from 1 to 7 is an invalid (spoiled) vote.
+A file, votes.txt, contains the names of the candidates. The first name is considered as candidate 1, the second as candidate 2, and so on. The names are followed by the votes. Write a program to read the data and evaluate the results of the election. Print all output to the file results.txt.
+Your output should specify the total number of votes, the number of valid votes, and the number of spoiled votes. This is followed by the votes obtained by each candidate and the winner(s) of the election.
+
+Given this data in votes.txt:
+Nirvan Singh
+Denise Duncan
+Avasa Tawari
+Torrique Granger
+Saskia Kalicharan
+Dawren Greenidge
+Jordon Cato
+ 
+3 1 6 5 4 3 5 3 5 3 2 8 1 6 7 7 3 5
+6 9 3 4 7 1 2 4 5 5 1 4 0
