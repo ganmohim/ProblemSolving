@@ -14,11 +14,11 @@ public class QuizMarker {
         
         while (sc.hasNextLine()) {
             String line = sc.nextLine();
-            counter++; // add to fix bug#1
+            counter++; // This line was not there before. Added to fix bug#1
             
             if (line.equals("0")) break; // break out of scanner
             
-            if (counter == 1) {
+            if (counter == 1) { // Due to bug#1 else block was unreachge
                 loadQuizAnswers(line);
             }
             
