@@ -18,7 +18,7 @@ public class QuizMarker {
             
             if (line.equals("0")) break; // break out of scanner
             
-            if (counter == 1) { // Due to bug#1 else block was unreachge
+            if (counter == 1) { // Due to bug#1 else block was unreachable
                 loadQuizAnswers(line);
             }
             
