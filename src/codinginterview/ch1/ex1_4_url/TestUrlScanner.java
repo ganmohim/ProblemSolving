@@ -1,4 +1,4 @@
-package codinginterview.ch1.ex1_4;
+package codinginterview.ch1.ex1_4_url;
 
 public class TestUrlScanner {
 	public static void main(String[] args) {

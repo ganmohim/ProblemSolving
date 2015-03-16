@@ -9,7 +9,7 @@
  */
 
 
-package codinginterview.ch1.ex1_1;
+package codinginterview.ch1.ex1_1_unique__char;
 import java.util.*;
 
 public class UniCharFinder {

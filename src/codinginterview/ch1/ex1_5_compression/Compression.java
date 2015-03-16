@@ -1,4 +1,4 @@
-package codinginterview.ch1.ex1_5;
+package codinginterview.ch1.ex1_5_compression;
 
 import java.util.*;
 

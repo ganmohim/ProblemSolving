@@ -1,4 +1,4 @@
-package codinginterview.ch1.ex1_5;
+package codinginterview.ch1.ex1_5_compression;
 
 public class TestCompression {
 	public static void main(String[] args) {
